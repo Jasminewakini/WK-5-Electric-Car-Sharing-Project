@@ -2,7 +2,6 @@
 
 # Moringa_Data_Science_Prep_W4_Independent_Project_2021_11_Jasmine_Wakini_Python_Notebook.ipynb
 
-# {Data Science IP Week 4}
 #### {Python Programmming Data Science Project}, {November, 2021}
 #### By **{Jasmine Wakini}**
 ## Description
@@ -38,7 +37,7 @@ Libraries: Numpy & Pandas.}
 
 ## Support and contact details
 
-{ To make a contribution to the code or any part of the project, kindly contact me through; josephinewanjiku748@gmail.com.}
+{ To make a contribution to the code or any part of the project, kindly contact me through; jasminewakini@gmail.com.}
 
 ### License
 
