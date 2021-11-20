@@ -6,9 +6,9 @@
 #### {Python Programmming Data Science Project}, {November, 2021}
 #### By **{Jasmine Wakini}**
 ## Description
-{I will be working as a data scientist working for an electric car-sharing service company. I have been tasked to process stations data to understand electric car 
+{I will be working as a data scientist working for an electric car-sharing service company. I have been tasked to process stations data to 
 
-usage over time by solving for the following research question; 
+understand electric car usage over time by solving for the following research question; 
 
 Research Question:
 
